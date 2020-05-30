@@ -5,4 +5,5 @@
 ## PHP
 
 * [Intro](php/intro.md)
+* [Install](php/install.md)
 
