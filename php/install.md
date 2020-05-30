@@ -12,8 +12,10 @@ WampServer :
 [https://sourceforge.net/projects/wampserver/](https://sourceforge.net/projects/wampserver/)
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Ubuntu" %}
+XAMPP server on Ubuntu:
 
+[https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html)
 {% endtab %}
 {% endtabs %}
 
